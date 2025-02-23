@@ -1,4 +1,3 @@
+CRIME EVALUATION USING PYTHON
 ---
-title: Welcome to my blog
----
-
+This is a basic data analysis that cleaned and subsetted a large crime data
